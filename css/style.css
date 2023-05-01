@@ -362,7 +362,7 @@ button {
 
 .about_bt a:hover {
     color: #fefefd;
-    background-color: #4a4949;
+    background-color: #626D58;
 }
 
 .callnow_bt {
@@ -1041,5 +1041,14 @@ textarea#comment.update_mail::placeholder {
 }
 
 .redirect-text {
+    color: white;
     font-size: 50px;
+}
+.new-img {
+    background-image: url(../images/banner-bg-rd.png);
+}
+
+.pad_bg {
+    padding: 50px 30px 50px 30px;
+    background-color: rgba(0, 0, 0, 0.8);
 }
